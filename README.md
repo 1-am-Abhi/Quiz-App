@@ -28,5 +28,4 @@ Email: kumarabhijeet1304@gmail.com
 🤝 Contributions
 Contribution is done by:
 Aditya Raj
-
-Github: https://github.com/1amAdityaa/1amAdityaa
+Github: [Aditya Raj](https://github.com/1amAdityaa/1amAdityaa)
